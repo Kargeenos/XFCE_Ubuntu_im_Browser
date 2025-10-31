@@ -8,7 +8,7 @@ ________________________________________________________________________________
 Im Dockerfile oder als Argumente beim Build können folgende Parameter angepasst werden:
     -User:          Name des Standardbenutzers
     -VNC_PORT:      Port des VNC-Servers
-    -NOVNC_PORT:    Port des NOVNC_Servers und damit der Port der im Browser aufgerufen werden muss
+    -NOVNC_PORT:    Port des NOVNC_Servers
     -RESOLUTION:    Auflösung und damit Größe des Fensters im Browser
     -COLOR_DEPTH:   Farbtiefe
 ______________________________________________________________________________________________________________________________________________________
